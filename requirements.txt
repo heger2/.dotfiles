@@ -1,0 +1,16 @@
+# Minimal i.e. command-line only
+git
+stow
+vim
+oh-my-zsh
+tmux
+
+# Full i.e. gui
+i3-gaps
+i3blocks
+i3lock
+termite
+compton
+feh
+thunar
+numix-circle-icon-theme-git
